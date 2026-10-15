@@ -1,6 +1,8 @@
 \documentclass[12pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{microtype}
 \usepackage{amsmath, amssymb}
 \usepackage{geometry}
 \usepackage{graphicx}
@@ -11,9 +13,10 @@
 
 \geometry{margin=2.5cm}
 \setstretch{1.3} % Line spacing improving readability
-\setlength{\emergencystretch}{3em}
 \titleformat{\section}{\bfseries\Large}{\thesection.}{1em}{}
+\titlespacing*{\section}{0pt}{1.5ex plus 0.5ex minus 0.2ex}{0.8ex plus 0.2ex}
 \titleformat{\subsection}{\bfseries\normalsize}{\thesubsection.}{1em}{}
+\titlespacing*{\subsection}{0pt}{1.2ex plus 0.4ex minus 0.2ex}{0.5ex}
 
 \title{\textbf{Stationary Strings Theorem: Relativity, Phase Transition and the Cosmological Cycle of Information}\\
 \large (The Bridge Between Relativity and Stationary Strings -- Extended Version)}

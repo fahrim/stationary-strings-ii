@@ -1,6 +1,9 @@
 \documentclass[12pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage[turkish]{babel}
+\usepackage{lmodern}
+\usepackage{microtype}
 \usepackage{amsmath, amssymb}
 \usepackage{geometry}
 \usepackage{graphicx}
@@ -9,14 +12,12 @@
 \usepackage{titlesec}
 \usepackage[colorlinks=true, linkcolor=blue, urlcolor=blue, citecolor=black]{hyperref}
 
-% babel-turkish asilmasi nedeniyle dogrudan Turkce tanimlar:
-\renewcommand{\abstractname}{Özet}
-
 \geometry{margin=2.5cm}
 \setstretch{1.3} % Okunabilirliği artıran satır aralığı
-\setlength{\emergencystretch}{3em}
 \titleformat{\section}{\bfseries\Large}{\thesection.}{1em}{}
+\titlespacing*{\section}{0pt}{1.5ex plus 0.5ex minus 0.2ex}{0.8ex plus 0.2ex}
 \titleformat{\subsection}{\bfseries\normalsize}{\thesubsection.}{1em}{}
+\titlespacing*{\subsection}{0pt}{1.2ex plus 0.4ex minus 0.2ex}{0.5ex}
 
 \title{\textbf{Duran Sicimler Teoremi: Görelilik, Faz Dönüşümü ve Bilginin Kozmolojik Döngüsü}\\
 \large (Görelilik ve Duran Sicimler Arasındaki Köprü – Genişletilmiş Versiyon)}
