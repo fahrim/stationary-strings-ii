@@ -1,0 +1,26 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(duran_sicimler_teoremi_II.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(C:\Users\Fahri Meral\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\Fahri Meral\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo))
+
+(C:\Users\Fahri Meral\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+)
+(C:\Users\Fahri Meral\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+
+(C:\Users\Fahri Meral\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+
+(C:\Users\Fahri Meral\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.
+def)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\Fahri Meral\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+)
+(C:\Users\Fahri Meral\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/tr
+\babel-turkish.tex)

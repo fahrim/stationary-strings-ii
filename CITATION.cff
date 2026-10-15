@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Duran Sicimler Teoremi: Görelilik, Faz Dönüşümü ve Bilginin Kozmolojik Döngüsü"
+message: "Bu çalışmayı kullanıyorsanız lütfen atıf yapınız."
+type: unpublished
+authors:
+  - family-names: Meral
+    given-names: Fahri
+date-released: 2025-01-01
+version: v1
+repository-code: "https://github.com/KULLANICI/duran-sicimler-II"
+license: CC-BY-4.0
