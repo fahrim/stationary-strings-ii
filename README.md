@@ -39,7 +39,7 @@ pdflatex -interaction=nonstopmode duran_sicimler_teoremi_II_EN.tex
   title  = {Duran Sicimler Teoremi: Görelilik, Faz Dönüşümü ve Bilginin Kozmolojik Döngüsü},
   year   = {2025},
   doi    = {10.5281/zenodo.YYYYYYY},
-  url    = {https://github.com/fahrim/duran-sicimler-II}
+  url    = {https://github.com/fahrim/stationary-strings-ii}
 }
 ```
 
