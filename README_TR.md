@@ -1,6 +1,6 @@
 # Duran Sicimler Teoremi II: Görelilik, Faz Dönüşümü ve Bilginin Kozmolojik Döngüsü
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.YYYYYYY.svg)](https://doi.org/10.5281/zenodo.YYYYYYY)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23408234.svg)](https://doi.org/10.5281/zenodo.23408234)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 > **Durum:** Yayımlanmamış ön-baskı (preprint, v1, 2025; genişletilmiş v5 metni). Hakem denetiminden geçmemiştir.
@@ -38,7 +38,7 @@ pdflatex -interaction=nonstopmode duran_sicimler_teoremi_II_EN.tex
   author = {Fahri Meral},
   title  = {Duran Sicimler Teoremi: Görelilik, Faz Dönüşümü ve Bilginin Kozmolojik Döngüsü},
   year   = {2025},
-  doi    = {10.5281/zenodo.YYYYYYY},
+  doi    = {10.5281/zenodo.23408234},
   url    = {https://github.com/fahrim/stationary-strings-ii}
 }
 ```

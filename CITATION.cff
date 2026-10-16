@@ -7,5 +7,6 @@ authors:
     given-names: Fahri
 date-released: 2025-01-01
 version: v1
+doi: 10.5281/zenodo.23408234
 repository-code: "https://github.com/fahrim/stationary-strings-ii"
 license: CC-BY-4.0
